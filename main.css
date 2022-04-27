@@ -183,7 +183,7 @@ footer img:nth-child(4) {
   .header_desktop {
     display: flex;
     justify-content: space-between;
-    padding: 40px 15px;
+    padding: 30px 15px;
   }
   .header_desktop ul {
     list-style: none;
