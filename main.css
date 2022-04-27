@@ -212,7 +212,7 @@ footer img:nth-child(4) {
     box-shadow: 8px 8px 10px 0px rgb(190, 191, 198);
     border-radius: 5px;
     position: absolute;
-    top: 40px;
+    top: 60px;
   }
   .popup1 li {
     text-decoration: none;
@@ -229,8 +229,8 @@ footer img:nth-child(4) {
     box-shadow: 8px 8px 10px 0px rgb(186, 187, 194);
     border-radius: 5px;
     position: absolute;
-    top: 40px;
-    left: 300px;
+    top: 60px;
+    left: 280px;
   }
   .popup2 li {
     text-decoration: none;
